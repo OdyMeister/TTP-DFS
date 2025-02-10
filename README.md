@@ -22,7 +22,7 @@ python3 calc.py ./Schedules/Schedules_All/All-4.csv 4
 
 ### Generate Plot
 
-Generates the plot from the paper:
+Generates the plot from the paper and saves it to the folder 'Plots':
 
 ```sh
 python3 plot.py
